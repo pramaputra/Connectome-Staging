@@ -27,7 +27,7 @@ close all; clear all; clc;
 % case-2 : varying damage coefficient and fixed diffusion coefficient;
 % The user needs to activate the correct functions of each case;
 % For example, when the user wants to compute case-2, all functions of
-% case-1 should be activated and all functions related to case-1 should be
+% case-2 should be activated and all functions related to case-1 should be
 % deactivated;
 
 % -----------------------------------------------------------------
